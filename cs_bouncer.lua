@@ -1,5 +1,4 @@
-local _author = "Ronald Chan <ronald@esixtycorporation.com>"
-local _copyright = "Copyright 2020-2021 eSixty Corporation"
+local _author = "Ronald Chan <loloski@protonmail.com>"
 local _version = "0.1"
 local _config_dir = "/etc/haproxy/"
 local _config_file = "config.json"
